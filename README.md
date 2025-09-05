@@ -1,6 +1,4 @@
 
----
-
 # 📝 Healthcare Backend 
 ## Project Description
 

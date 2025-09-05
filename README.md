@@ -609,7 +609,3 @@ DELETE /api/mappings/1/
 
 * **Rohit Kumar**
   Healthcare API Assignment using Django Rest Framework
-
----#   H e a l t h c a r e - B a c k e n d 
- 
- 

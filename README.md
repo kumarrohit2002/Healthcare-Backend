@@ -13,13 +13,13 @@ This project simulates a **basic healthcare management system**, where:
 The API is fully **REST-compliant**, supporting **CRUD operations** (Create, Read, Update, Delete) for patients and doctors, and also includes endpoints for **assigning, retrieving, and removing patient-doctor relationships**.
 
 It is designed as a **learning and demonstration project** to showcase:
-✅ User authentication with JWT
-✅ REST API development with DRF
-✅ Database modeling for healthcare use-cases
-✅ CRUD operations for patients & doctors
-✅ Many-to-many relationship handling with mappings
-✅ Secure API endpoints with permissions
-✅ Admin panel support for data management
+- ✅ User authentication with JWT
+- ✅ REST API development with DRF
+- ✅ Database modeling for healthcare use-cases
+- ✅ CRUD operations for patients & doctors
+- ✅ Many-to-many relationship handling with mappings
+- ✅ Secure API endpoints with permissions
+- ✅ Admin panel support for data management
 
 This backend system can serve as the **foundation for a larger healthcare application**, such as:
 
